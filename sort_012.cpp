@@ -40,9 +40,3 @@ int main (){
         
  return 0;
 }
-
- sortone(arr,8);
- printarray(arr,8);
-
-return 0;
-}
